@@ -1,0 +1,37 @@
+#head{
+color: #b1c9ef;
+}
+
+#page{
+	background-color: #638ecb;
+	text-align: center;
+}
+
+#footer{
+background-color: #ffd23f;
+}
+
+.form-control, .lb {
+	
+	padding: 2.5rem 2.5rem 2.5rem;
+
+}
+.container{
+	 display: flex;
+    justify-content: center; /* Horizontal centering */
+    align-items: center; /* Vertical centering */
+    height: 100vh; /* Full viewport height */
+}
+ 
+ form {
+ 	border-color: red;
+    border: 25px solid ; /* Border around the form */
+    padding: 40px; /* Optional: Add padding inside the form */
+    /* Add other styling for your form */
+}
+.logo{
+	width: 100px;
+	height: 100px;
+	border-radius: 100%;
+	margin: 10px;
+}

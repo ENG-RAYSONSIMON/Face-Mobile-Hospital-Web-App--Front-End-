@@ -1,0 +1,26 @@
+#brand{
+	font-family: montserrat;
+}
+.logo{
+	height:90px ;
+	width:90px ;
+	border-radius: 100%;
+	margin: 20px 15px;
+}
+.panel{
+	text-align: center;
+	padding: 20px 20px;
+}
+.card-ctn{
+	margin-top: 30px;
+}
+.button{
+	margin: 30px 0 ;
+}
+.icon{
+	margin: 0 5px;
+}
+#footer{
+	text-align: center;
+	background-color: #ffd23f;
+}
